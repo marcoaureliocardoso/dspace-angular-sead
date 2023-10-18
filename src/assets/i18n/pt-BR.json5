@@ -2102,10 +2102,10 @@
   "footer.copyright": "copyright © 2002-{{ year }}",
 
   // "footer.link.dspace": "DSpace software",
-  "footer.link.dspace": "DSpace software",
+  "footer.link.dspace": "Repositório Sead. Powered by: LYRASIS DSpace | ",
 
   // "footer.link.lyrasis": "LYRASIS",
-  "footer.link.lyrasis": "LYRASIS",
+  "footer.link.lyrasis": "SEAD/UFES",
 
   // "footer.link.cookies": "Cookie settings",
   "footer.link.cookies": "Configurações de Cookies",
@@ -2412,7 +2412,7 @@
   "home.title": "Início",
 
   // "home.top-level-communities.head": "Communities in DSpace",
-  "home.top-level-communities.head": "Comunidades no DSpace",
+  "home.top-level-communities.head": "Comunidades no Repositório",
 
   // "home.top-level-communities.help": "Select a community to browse its collections.",
   "home.top-level-communities.help": "Selecione uma comunidade para navegar por suas coleções",
@@ -2460,7 +2460,7 @@
   "info.feedback.title": "Sugestão",
 
   // "info.feedback.info": "Thanks for sharing your feedback about the DSpace system. Your comments are appreciated!",
-  "info.feedback.info": "Obrigado por compartilhar seus comentários sobre o sistema DSpace. Seus comentários são apreciados!",
+  "info.feedback.info": "Obrigado por compartilhar seus comentários sobre o Repositório Sead. Seus comentários são apreciados!",
 
   // "info.feedback.email_help": "This address will be used to follow up on your feedback.",
   "info.feedback.email_help": "Este endereço será usado para acompanhar seus comentário.",
@@ -3684,7 +3684,7 @@
   "menu.section.browse_community_by_title": "Por Título",
 
   // "menu.section.browse_global": "All of DSpace",
-  "menu.section.browse_global": "Tudo no DSpace",
+  "menu.section.browse_global": "Tudo no Repositório",
 
   // "menu.section.browse_global_by_author": "By Author",
   "menu.section.browse_global_by_author": "Por Autor",
@@ -4009,7 +4009,7 @@
   "mydspace.view-btn": "Ver",
 
   // "nav.browse.header": "All of DSpace",
-  "nav.browse.header": "Tudo no DSpace",
+  "nav.browse.header": "Tudo no Repositório",
 
   // "nav.community-browse.header": "By Community",
   "nav.community-browse.header": "Por Comunidade",
